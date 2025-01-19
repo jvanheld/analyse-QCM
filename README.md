@@ -1,4 +1,4 @@
-# analyse-QCM
+# Analyse des résultats de QCM d'examen
 
 Analyse du tableau de résultats de QCM d'examen produits par le logiciel de Awen (compléter : nom du programme). 
 
